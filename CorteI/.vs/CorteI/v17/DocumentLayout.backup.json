@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\ExamendeMetyProgEstruc\\CorteI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C864C6CD-7639-4825-A626-BFAC7B413B76}|CorteI\\CorteI.csproj|c:\\users\\naole\\onedrive\\examendemetyprogestruc\\cortei\\cortei\\models\\registrodeedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C864C6CD-7639-4825-A626-BFAC7B413B76}|CorteI\\CorteI.csproj|solutionrelative:cortei\\models\\registrodeedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C864C6CD-7639-4825-A626-BFAC7B413B76}|CorteI\\CorteI.csproj|c:\\users\\naole\\onedrive\\examendemetyprogestruc\\cortei\\cortei\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C864C6CD-7639-4825-A626-BFAC7B413B76}|CorteI\\CorteI.csproj|solutionrelative:cortei\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C864C6CD-7639-4825-A626-BFAC7B413B76}|CorteI\\CorteI.csproj|c:\\users\\naole\\onedrive\\examendemetyprogestruc\\cortei\\cortei\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C864C6CD-7639-4825-A626-BFAC7B413B76}|CorteI\\CorteI.csproj|C:\\Users\\naole\\OneDrive\\ExamendeMetyProgEstruc\\CorteI\\cortei\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C864C6CD-7639-4825-A626-BFAC7B413B76}|CorteI\\CorteI.csproj|solutionrelative:cortei\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegistroDeEdades.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ExamendeMetyProgEstruc\\CorteI\\CorteI\\models\\RegistroDeEdades.cs",
+              "RelativeDocumentMoniker": "CorteI\\models\\RegistroDeEdades.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\ExamendeMetyProgEstruc\\CorteI\\CorteI\\models\\RegistroDeEdades.cs",
+              "RelativeToolTip": "CorteI\\models\\RegistroDeEdades.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:21:23.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ExamendeMetyProgEstruc\\CorteI\\CorteI\\models\\Persona.cs",
               "RelativeDocumentMoniker": "CorteI\\models\\Persona.cs",
@@ -39,15 +56,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ExamendeMetyProgEstruc\\CorteI\\CorteI\\Form1.cs",
               "RelativeDocumentMoniker": "CorteI\\Form1.cs",
               "ToolTip": "C:\\Users\\naole\\OneDrive\\ExamendeMetyProgEstruc\\CorteI\\CorteI\\Form1.cs [Design]",
               "RelativeToolTip": "CorteI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:12:01.666Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-23T14:12:01.666Z"
             }
           ]
         }
