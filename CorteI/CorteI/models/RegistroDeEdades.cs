@@ -8,7 +8,7 @@ namespace CorteI.models
 {
     internal class RegistroDeEdades
     {
-        public class Registro
+        public class Registro2
         {
             public Persona[] personas = new Persona[30]; // Arreglo
             public int contador = 0; //contador para llevar el seguimiento
@@ -39,4 +39,5 @@ namespace CorteI.models
                 return resultado;
             }
         }
+    }
 }

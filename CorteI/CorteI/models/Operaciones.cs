@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CorteI.models
 {
-    internal class Operaciones
+    internal class Operaciones2
     {
         // metodo
         public int CalcularEdad(Persona persona)

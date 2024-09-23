@@ -1,0 +1,10 @@
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\obj\Debug\CorteI.csproj.AssemblyReference.cache
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\obj\Debug\CorteI.Form1.resources
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\obj\Debug\CorteI.Properties.Resources.resources
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\obj\Debug\CorteI.csproj.GenerateResource.cache
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\obj\Debug\CorteI.csproj.CoreCompileInputs.cache
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\bin\Debug\CorteI.exe.config
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\bin\Debug\CorteI.exe
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\bin\Debug\CorteI.pdb
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\obj\Debug\CorteI.exe
+C:\Users\naole\OneDrive\ExamendeMetyProgEstruc\CorteI\CorteI\obj\Debug\CorteI.pdb
